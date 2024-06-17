@@ -1,0 +1,40 @@
+.tudo{
+    width: 700px;
+    height: 700px;
+    background-color: orange;
+    
+}
+
+
+.div1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+}
+
+.div2{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    top: 607.5px;
+}
+
+.div3{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    left: 607.5px;
+    top: 607.5px;
+}
+
+.div4{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    right: 892px;
+    top: 8px;
+}
